@@ -1,0 +1,36 @@
+_repo: Johnny-Bear-and-Other-Stories-from-Lives-of-the-Hunted_9333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton, Wolf
+    - Seton-Thomson, Ernest
+    - Seton-Thompson, Ernest
+    - Thompson-Seton, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+- GITenberg
+tableOfContents: 'Johnny Bear -- Tito: the story of the coyote that learned how --
+  Why the chickadee goes crazy once a year.'
+title: Johnny Bear, and Other Stories from Lives of the Hunted
+url: http://www.gutenberg.org/ebooks/9333
